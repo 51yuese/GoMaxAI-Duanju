@@ -30,7 +30,7 @@
 
 ## 体验与咨询
 
-- 短剧版演示：[dj.qumao518.vip](https://dj.qumao518.vip)
+- 短剧版演示：[duanju.qumao518.vip](https://duanju.qumao518.vip)
 - 微信：`lzgzs168`
 - QQ：`124628086`
 - [返回完整产品介绍](../README.md)
