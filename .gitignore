@@ -1,0 +1,20 @@
+# 展示仓库仅发布核验后的文档和图片；程序与本机配置不进入公开记录。
+node_modules/
+src/
+dist/
+app/
+webroot/
+.env*
+*.ts
+*.tsx
+*.vue
+*.map
+*.pem
+*.key
+*.pfx
+*.p12
+*.zip
+*.7z
+*.log
+*secret*
+*credentials*
