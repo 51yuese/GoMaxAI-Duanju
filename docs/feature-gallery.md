@@ -1,8 +1,8 @@
-# Duanju 完整功能图览
+# 比象 AI Duanju 功能图鉴
 
-当前图文介绍按 20 个主题组织，包含 41 张按功能分段的展示图和 1 张正确域名的首页截图，共 42 张图片。每张图按原比例展示，不使用固定高度裁掉功能主体。
+从故事、人物和镜头，到声音、成片与平台经营，按创作环节浏览比象 AI Duanju 的核心能力。
 
-| 主题 | 展示内容 | 图片 |
+| 创作环节 | 功能 | 查看界面 |
 | --- | --- | --- |
 | 01 | 产品全貌 | [1](../images/01-ai-duanju-overview-01.jpg) |
 | 02 | 剧本与分集 | [1](../images/02-script-to-storyboard-01.jpg) · [2](../images/02-script-to-storyboard-02.jpg) |
@@ -14,7 +14,7 @@
 | 08 | 图片与视频 | [1](../images/08-ai-image-and-video-01.jpg) · [2](../images/08-ai-image-and-video-02.jpg) |
 | 09 | 商业运营全貌 | [1](../images/09-commercial-operations-01.jpg) |
 | 10 | 项目风格与提示词 | [1](../images/10-project-style-and-prompts-01.jpg) · [2](../images/10-project-style-and-prompts-02.jpg) |
-| 11 | 角色场景生物道具字段 | [1](../images/11-detailed-story-assets-01.jpg) · [2](../images/11-detailed-story-assets-02.jpg) · [3](../images/11-detailed-story-assets-03.jpg) · [4](../images/11-detailed-story-assets-04.jpg) |
+| 11 | 角色、场景、生物与道具 | [1](../images/11-detailed-story-assets-01.jpg) · [2](../images/11-detailed-story-assets-02.jpg) · [3](../images/11-detailed-story-assets-03.jpg) · [4](../images/11-detailed-story-assets-04.jpg) |
 | 12 | 音色设计与克隆 | [1](../images/12-voice-design-and-clone-01.jpg) · [2](../images/12-voice-design-and-clone-02.jpg) |
 | 13 | 短剧助手费用与状态 | [1](../images/13-assistant-cost-and-progress-01.jpg) · [2](../images/13-assistant-cost-and-progress-02.jpg) |
 | 14 | 画布资产与作品发布 | [1](../images/14-canvas-assets-and-publishing-01.jpg) · [2](../images/14-canvas-assets-and-publishing-02.jpg) |
@@ -24,12 +24,10 @@
 | 18 | 定时任务与成果分享 | [1](../images/18-schedules-and-sharing-01.jpg) · [2](../images/18-schedules-and-sharing-02.jpg) |
 | 19 | 会员商品与短剧计费 | [1](../images/19-members-models-and-billing-01.jpg) · [2](../images/19-members-models-and-billing-02.jpg) |
 | 20 | 后台统计与模型用量 | [1](../images/20-operations-dashboard-01.jpg) · [2](../images/20-operations-dashboard-02.jpg) |
-| 首页 | 当前演示站公开首页 | [查看](../images/duanju-live-home.jpg) |
+| 首页 | 产品首页 | [查看](../images/duanju-live-home.jpg) |
 
-## 展示范围
+## 选择适合你的创作方式
 
-短剧项目、角色场景、分镜、音色、画布、导演台、时间线、成片和模型创作构成主要制作能力。Agent、专家技能、知识工具、定时、分享与商业后台根据实际版本和站点配置开放；企业多人权限、原生 APP 和其他扩展不默认计入基础授权。
-
-成片表单来自 duanju 客户端；其他图按当前代码核对共用模块的演示素材。配置表单和未生成状态用于说明操作方式，不包装成已完成影片。图片数量用于功能覆盖，不代表所有站点都已接入全部供应商服务。
+连载短剧从项目与角色场景开始，创意短片从画布与成片流程开始。平台运营者可进一步了解模型、会员、计费和任务管理。
 
 [返回完整产品介绍](../README.md) · [在线体验](https://duanju.qumao518.vip)
