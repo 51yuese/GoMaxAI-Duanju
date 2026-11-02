@@ -4,6 +4,7 @@
 
 | 功能 | 查看界面 |
 | --- | --- |
+| 短剧制作流程 | [批量素材、连贯镜头与成片](../images/short-drama-production-workflow.jpg) |
 | 产品全貌 | [查看](../images/01-ai-duanju-overview-01.jpg) |
 | 剧本与分集 | [1](../images/02-script-to-storyboard-01.jpg) · [2](../images/02-script-to-storyboard-02.jpg) |
 | 角色与场景 | [1](../images/03-character-scene-assets-01.jpg) · [2](../images/03-character-scene-assets-02.jpg) |
